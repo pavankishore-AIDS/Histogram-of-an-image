@@ -22,7 +22,7 @@ cv2.equalize() is used to transform the gray image to equalized form.
 The Histogram of gray scale image and color image is shown.
 
 ## Program:
-```python
+python
 # Developed By:M.Pavan kishore
 # Register Number:212221230076
 import cv2
@@ -83,7 +83,6 @@ cv2.destroyAllWindows()
 
 
 
-```
 ## Output:
 ### Input Grayscale Image and Color Image
 ![Screenshot (2)](https://user-images.githubusercontent.com/94154941/231713306-0dfcb187-94e3-4348-86c8-b0bfeb65f255.png)
